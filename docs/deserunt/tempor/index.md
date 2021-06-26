@@ -1,3 +1,7 @@
+---
+eleventyNavigation: "somethingRandom"
+---
+
 # Tempor
 
 ## veniam

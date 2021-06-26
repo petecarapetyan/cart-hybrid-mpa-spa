@@ -140,9 +140,3 @@ teasers:
       alt="bulksplash-aranprime-SoN2wSBk8Mg.jpg" />
 
 ---
-<p>barf</p>
-<app-shell></app-shell>
-
-```js script
-import '/index.js';
-```
