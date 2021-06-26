@@ -3,7 +3,7 @@ docs/_merged_data/
 docs/_merged_assets/
 docs/_merged_includes/
 docs/*.js.map
-docs/index.j*
+docs/*.js
 docs/buttonPage*
 _site/
 _site-dev
