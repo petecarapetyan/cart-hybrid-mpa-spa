@@ -3,5 +3,5 @@
 <app-shell></app-shell>
 
 ```js script
-import '/index.js';
+import '/_merged_assets/cwbCart.js';
 ```
