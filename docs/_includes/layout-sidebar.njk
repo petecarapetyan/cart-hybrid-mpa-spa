@@ -11,8 +11,6 @@
   <div class="ga-head-r"></div>
 
     <div class="content-grid-area">
-      <h1 class="page-slogan">{{productId}}</h1>
-      <p>{{doglips}}</p>
       {% block content %}
         {% include 'partials/_layoutSidebar/content.njk' %}
       {% endblock content %}
@@ -21,6 +19,10 @@
           <script src="/_merged_assets/cwbButtonLocalstorage.js" async type="module"></script>
           <p>Add to shopping cart <button-page></button-page></p>
         </div>
+      {% endif %}
+      {% if productId %} 
+        <h3 class="page-slogan">Product Name: {{productName}}</h3>
+        <p>Product Id: {{productId}}</p>
       {% endif %}
     </div>
     <div class="sidebar-grid-area">

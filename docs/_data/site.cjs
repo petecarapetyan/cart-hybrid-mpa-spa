@@ -6,6 +6,26 @@ module.exports = function () {
     description: 'FauxMazon is a test of cwb - Web Components with Back End Connections',
     socialLinks: [
       {
+        name: 'auth',
+        url: '/cwb/auth/',
+      },
+      {
+        name: 'cart',
+        url: '/cwb/cart/',
+      },
+      {
+        name: 'upload',
+        url: '/cwb/upload/',
+      },
+      {
+        name: 'media',
+        url: '/cwb/media/',
+      },
+      {
+        name: 'admin',
+        url: '/cwb/admin/',
+      },
+      {
         name: 'GitHub',
         url: 'https://github.com/petecarapetyan/cwb-mpa-test-site',
       },

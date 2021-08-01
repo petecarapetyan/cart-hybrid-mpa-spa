@@ -1,3 +1,8 @@
+---
+productId: UR*7bp-00009
+productName: Lorem
+---
+
 # Lorem
 
 ## pariatur
