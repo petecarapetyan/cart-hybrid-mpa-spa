@@ -2,12 +2,12 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'EK Dispatch',
-    description: 'not-apnews is a customizeable theme, for the Rocket SSG',
+    name: 'FauxMazon',
+    description: 'FauxMazon is a test of cwb - Web Components with Back End Connections',
     socialLinks: [
       {
         name: 'GitHub',
-        url: 'https://github.com/petecarapetyan/fins-rocket-themes/tree/main/not-apnews/src/docs',
+        url: 'https://github.com/petecarapetyan/cwb-mpa-test-site',
       },
     ],
     gitSiteUrl: 'https://github.com/petecarapetyan/fins-rocket-themes',
