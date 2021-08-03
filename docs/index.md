@@ -1,142 +1,66 @@
 ---
-title: Lorem Ipsum!
+title: FauxMazon
 layout: layout-home
-slogan: ullamco enim quis dolor adipisicing non labore laborum ea aute
-callToActionItems:
-  - title: adipisicing ad cillum adipisicing
-    text: >-
-      Cillum ut commodo cillum quis elit sunt cupidatat commodo. Enim minim
-      minim ad incididunt fugiat enim laborum et non do excepteur amet.
-    href: /widgets/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-aranprime-SoN2wSBk8Mg.jpg"
-      alt="bulksplash-aranprime-SoN2wSBk8Mg.jpg" />
-  - title: anim labore consequat quis
-    text: >-
-      Quis anim commodo et proident laborum dolor sit officia tempor commodo
-      anim aute labore anim. Ut sunt enim pariatur ullamco adipisicing voluptate
-      voluptate ullamco. Officia proident non laboris voluptate sunt aliqua
-      adipisicing non do duis non voluptate.
-    href: /gizmos/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-intricateexplorer-nSk4ko0uUjA.jpg"
-      alt="bulksplash-intricateexplorer-nSk4ko0uUjA.jpg" />
 
 teaserTitle: deserunt ipsum exercitation officia
 feature:
-  title: id esse et
+  title: Ball
   text: >-
-    Tempor voluptate elit nulla laborum cupidatat. Minim in et sunt labore do
-    culpa laborum pariatur in consectetur do exercitation esse mollit. Officia
-    ex dolor anim velit veniam sint consequat proident.
-  href: /thingies/dolor/
+    Tempor voluptate elit nulla laborum cupidatat. 
+  href: /gizmos/ball/
   img: >-
-    <img class="bordered"
-    src="/_merged_assets/_static/images/bulksplash-bencollins-u2e5yxz_qQo.jpg"
-    alt="bulksplash-bencollins-u2e5yxz_qQo.jpg" />
+    <img src="https://storage.googleapis.com/fauxmazon.appspot.com/publicMedia/300/1627953549040_brian-lundquist-sdCDjzENXps-unsplash.jpg" alt="brian-lundquist-sdCDjzENXps-unsplash" />
 
 teasers:
-  - title: ut non
+  - title: Camera
     text: Sint esse tempor commodo deserunt esse ea exercitation anim.
-    href: /widgets/
+    href: /gizmos/camera/
     img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-jxk-X-7Jws4oeeg.jpg"
-      alt="bulksplash-jxk-X-7Jws4oeeg.jpg" />
-  - title: commodo qui adipisicing quis incididunt
+      <img src="https://storage.googleapis.com/fauxmazon.appspot.com/publicMedia/300/1627939927732_alexander-andrews-soLEw77Napo-unsplash.jpg" alt="alexander-andrews-soLEw77Napo-unsplash" />
+  - title: Boat
     text: >-
-      Qui deserunt excepteur anim eu aute commodo Lorem officia. Eiusmod in in
+      Qui deserunt excepteur anim eu aute commodo Lorem officia. 
+    href: /gizmos/boat/
+    img: >-
+      <img src="https://storage.googleapis.com/fauxmazon.appspot.com/publicMedia/300/1627951723771_osman-rana-Oi1fJwi35oI-unsplash.jpg" alt="osman-rana-Oi1fJwi35oI-unsplash" />
+  - title: Stool
+    text: Ad incididunt dolor excepteur quis aliqua cillum deserunt labore.
+    href: /widgets/stool/
+    img: >-
+      <img src="https://storage.googleapis.com/fauxmazon.appspot.com/publicMedia/300/1627952910272_ruslan-bardash-4kTbAMRAHtQ-unsplash.jpg" alt="ruslan-bardash-4kTbAMRAHtQ-unsplash" />
+  - title: Ukelele
+    text: >-
+      Ullamco reprehenderit anim consectetur aliquip quis. Eiusmod in in
       proident incididunt voluptate magna esse in ad nisi adipisicing
       consectetur.
-    href: /widgets/tempor/
+    href: /widgets/ukelele/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-philplnt-X2PwqTUpXH8.jpg"
-      alt="bulksplash-philplnt-X2PwqTUpXH8.jpg" />
-  - title: pariatur eu labore sint
-    text: Ad incididunt dolor excepteur quis aliqua cillum deserunt labore.
-    href: /widgets/laboris-dolor/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-amyshamblen-N7zyWI9F0tU.jpg"
-      alt="bulksplash-amyshamblen-N7zyWI9F0tU.jpg" />
-  - title: sit duis mollit
+      <img src="https://storage.googleapis.com/fauxmazon.appspot.com/publicMedia/300/1627950684145_edgar-moran-5HltXT-6Vgw-unsplash.jpg" alt="edgar-moran-5HltXT-6Vgw-unsplash" />
+  - title: White Chair
     text: >-
-      Ullamco reprehenderit anim consectetur adipisicing et cillum consectetur
-      exercitation nisi minim officia aliquip quis.
-    href: /widgets/aute-mollit/
+      Do cupidatat culpa consectetur velit tempor sunt elit in
+      occaecat mollit. 
+    href: /widgets/chair/
     img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-ger46-kRPEkPXyexw.jpg"
-      alt="bulksplash-ger46-kRPEkPXyexw.jpg" />
-  - title: et sit ipsum
-    text: >-
-      Do cupidatat culpa consectetur velit tempor sunt elit mollit aliquip in
-      occaecat mollit. Anim officia esse veniam excepteur adipisicing. Laboris
-      excepteur laboris elit veniam.
-    href: /gizmos/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-aples-0bltbD1CZCU.jpg"
-      alt="bulksplash-aples-0bltbD1CZCU.jpg" />
-  - title: qui eu quis magna
-    text: >-
-      Labore excepteur ex exercitation labore officia ipsum ex culpa commodo
-      esse aliquip quis.
-    href: /gizmos/sint-consectetur/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-derekleej-fgV7m-9oVL0.jpg"
-      alt="bulksplash-derekleej-fgV7m-9oVL0.jpg" />
-  - title: consequat et laborum mollit
-    text: Eu nisi exercitation consectetur deserunt voluptate do voluptate do enim.
-    href: /gizmos/aliqua-laborum/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-kirsimakov-wl6YjDpm8UQ.jpg"
-      alt="bulksplash-kirsimakov-wl6YjDpm8UQ.jpg" />
-  - title: laboris labore reprehenderit consectetur non
-    text: >-
-      Cillum cupidatat in consectetur adipisicing. Aliqua cillum proident
-      laboris ipsum est duis eu consequat nisi cupidatat.
-    href: /gizmos/eu-do/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-bensow-S2QfaQN86w4.jpg"
-      alt="bulksplash-bensow-S2QfaQN86w4.jpg" />
-  - title: officia cupidatat voluptate
-    text: >-
-      Fugiat voluptate cillum magna irure nulla adipisicing. In et consequat
-      adipisicing non elit voluptate tempor aute irure culpa eiusmod ex veniam
-      elit. Proident ad aute consequat magna reprehenderit dolore veniam
-      excepteur anim.
-    href: /thingies/deserunt-nulla/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-amyshamblen-ptYrcELmA8g.jpg"
-      alt="bulksplash-amyshamblen-ptYrcELmA8g.jpg" />
-  - title: velit incididunt sunt aute
-    text: >-
-      Elit aliquip enim quis laboris ullamco tempor eu irure aliquip ea magna
-      fugiat. Reprehenderit dolor ipsum reprehenderit incididunt et esse id qui
-      laborum ad labore do non in ullamco. Exercitation nulla laborum anim
-      adipisicing mollit qui velit proident deserunt ut reprehenderit.
-    href: /thingies/lorem/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-darthpaghius-oFauMbDVL-g.jpg"
-      alt="bulksplash-darthpaghius-oFauMbDVL-g.jpg" />
-  - title: fugiat aliquip deserunt fugiat
-    text: >-
-      Culpa reprehenderit excepteur mollit dolor ipsum. Nulla veniam qui esse.
-      Sunt ipsum sint voluptate commodo amet nulla sint elit consectetur duis
-      culpa magna consequat.
-    href: /thingies/dolor/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-aranprime-SoN2wSBk8Mg.jpg"
-      alt="bulksplash-aranprime-SoN2wSBk8Mg.jpg" />
+      <img src="https://storage.googleapis.com/fauxmazon.appspot.com/publicMedia/300/1627953589917_vincent-botta-J41ffLK_OSM-unsplash.jpg" alt="vincent-botta-J41ffLK_OSM-unsplash" />
 
+  - title: Table
+    text: >-
+      Labore excepteur ex exercitation labore officia ipsum ex.
+    href: /widgets/table/
+    img: >-
+      <img src="https://storage.googleapis.com/fauxmazon.appspot.com/publicMedia/300/1627951470950_oana-hodirnau-44r527HkUh0-unsplash.jpg" alt="oana-hodirnau-44r527HkUh0-unsplash" />
+  - title: Motorcycle
+    text: >-
+      Cillum cupidatat in consectetur adipisicing.
+    href: /thingies/motorcycle/
+    img: >-
+      <img src="https://storage.googleapis.com/fauxmazon.appspot.com/publicMedia/300/1627950674737_brock-wegner-O3h_fKaq8ic-unsplash.jpg" alt="brock-wegner-O3h_fKaq8ic-unsplash" />
 ---
+
+# High Class Merchadise Only
+
+You will find all of our products are the best in their class.
+
+We ship to your location using only the finest horse and buggy, arriving by the end of this century.
